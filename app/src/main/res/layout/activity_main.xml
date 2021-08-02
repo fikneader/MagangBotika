@@ -8,7 +8,6 @@
     tools:context=".MainActivity">
 
     <include
-        layout="@layout/item_history_payment"
-        />
+        layout="@layout/item_history_payment" />
 
 </LinearLayout>
