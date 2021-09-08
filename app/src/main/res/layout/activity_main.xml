@@ -7,33 +7,10 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="240dp"
-        android:background="#DCDCDC"
-        android:orientation="vertical">
+    <include layout="@layout/item_history_payment" />
 
-        <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="30dp"
-            android:layout_height="30dp"
-            android:visibility="visible"
-            app:srcCompat="@drawable/tentang"
-            tools:visibility="visible" />
+    <include layout="@layout/item_history_payment_rev_satu" />
 
-        <EditText
-            android:id="@+id/editTextTextPersonName2"
-            android:layout_width="159dp"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:inputType="textPersonName"
-            android:text="Detail Pembayaran" />
-
-        <include
-            layout="@layout/item_history_payment"
-            android:layout_height="169dp"
-            android:background="#000000" />
-
-    </LinearLayout>
+    <include layout="@layout/newfile"/>
 
 </LinearLayout>

@@ -5,10 +5,13 @@
       <map>
         <entry key="..\:/Project/MagangBotika/app/src/main/res/layout/activity_main.xml" value="0.24114583333333334" />
         <entry key="..\:/Project/MagangBotika/app/src/main/res/layout/item_history_payment.xml" value="0.1962962962962963" />
+        <entry key="..\:/Project/MagangBotika/app/src/main/res/layout/item_history_payment_rev_satu.xml" value="0.38980509745127434" />
+        <entry key="..\:/Project/MagangBotika/app/src/main/res/layout/newfile.xml" value="0.24114583333333334" />
+        <entry key="..\:/Project/MagangBotika/app/src/main/res/layout/preview_activity.xml" value="0.24114583333333334" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
